@@ -1,7 +1,7 @@
 # Rafael Store
 To run the application after installing the latest version of go available at https://golang.org/dl/
 
-**Stacks**: *Postgres, GoLang, Docker, SQL*
+**Stacks**: *Postgres, GoLang, Docker, SQL, HTML*
 
 * To run the application it is necessary to run the simple **command**: 
   ```sh
