@@ -16,6 +16,10 @@ The docker will download the dependencies and start the applications in order:
 
 **Application:**
 
+To acess the application:
+  ```sh
+  http://localhost:8009/
+  ```
 The application is a simple product crud where you can insert edit and delete products 
 
 <!-- CONTRIBUTING -->
